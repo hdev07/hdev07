@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **vue.js**
 
-- 👨‍💻 All of my projects are available at [hdev07.vercel.app](hdev07.vercel.app)
+- 👨‍💻 All of my projects are available at [hdev07](http://hdev07.vercel.app)
 
 - 📫 How to reach me **hcruz0716@gmail.com**
 
