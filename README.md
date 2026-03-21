@@ -1,40 +1,165 @@
-<h1 align="center">Hi 👋, I'm Alejandro Cruz</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hdev07&label=Profile%20views&color=0e75b6&style=flat" alt="hdev07" /> </p>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Alejandro%20Cruz&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdev07" alt="hdev07" /></a> </p>
+<!-- Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-hdev07.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hdev07.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hdev07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hdev07)
+[![Email](https://img.shields.io/badge/Email-hcruz0716@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcruz0716@gmail.com)
 
-<p align="left"> <a href="https://twitter.com/hdev07" target="blank"><img src="https://img.shields.io/twitter/follow/hdev07?logo=twitter&style=for-the-badge" alt="hdev07" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=hdev07&label=Profile%20views&color=2563EB&style=flat-square" alt="hdev07" />
 
-- 🔭 I’m currently working on **[musion.day](https://musion.day)**
+</div>
 
-- 🌱 I’m currently learning **react.js**
+---
 
-- 🤝 I’m looking for help with **vue.js**
+### 🚀 Construyo productos digitales escalables con impacto real
 
-- 👨‍💻 All of my projects are available at [hdev07](http://hdev07.vercel.app)
+Soy desarrollador **Full Stack** con más de **4 años** de experiencia construyendo **SaaS, dashboards y aplicaciones en producción**.
 
-- 📫 How to reach me **hcruz0716@gmail.com**
+No solo escribo código — diseño soluciones completas que conectan backend, frontend y experiencia de usuario. Me enfoco en construir software que **escale, sea mantenible y genere impacto**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://dev.to/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://twitter.com/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://fb.com/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://instagram.com/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://dribbble.com/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://www.behance.net/hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hdev07" height="30" width="40" /></a>
-<a href="https://medium.com/@hdev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hdev07" height="30" width="40" /></a>
-<a href="https://discord.gg/hdev07#7772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hdev07#7772" height="30" width="40" /></a>
-</p>
+> *"El código es solo una parte. El valor está en cómo resuelve problemas reales."*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-[GitHub Trends SVG](https://api.githubtrends.io/user/svg/hdev07/repos?time_range=one_year&theme=classic)
+### ⚡ Quick Facts
+
+- � Co-Founder de **[MoviBase](https://movibase.com)** — plataforma SaaS de control de flotas para Latinoamérica
+- 🔭 Construyendo **[musion.day](https://musion.day)** — plataforma PWA de cultura para CDMX
+- 🧠 Enfoque en **producto**, no solo en código
+- 🏗️ Experiencia diseñando arquitecturas **SaaS & multi-tenant**
+- 📈 He logrado reducir **40% tiempos de carga** y **30% errores en producción**
+- ⚡ Apasionado por **performance, UX y escalabilidad**
+
+---
+
+### 🛠️ Stack & Tecnologías
+
+<div align="center">
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Arquitectura**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 🔥 Proyectos Destacados
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🚀 [MoviBase](https://movibase.com) — Co-Founder
+
+Plataforma **SaaS** de control operativo y financiero de flotas vehiculares para Latinoamérica. Reemplaza GPS + Excel + WhatsApp + Contabilidad con **27 módulos integrados**: GPS en tiempo real, comandos remotos, mantenimiento predictivo, geocercas, dashboard de KPIs, control de combustible y más.
+
+`Vue` `Nuxt` `Node` `PostGIS` `Supabase` `PWA` `Multi-tenant`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🏛️ [Musion](https://musion.day)
+
+Plataforma **PWA** para centralizar la oferta cultural de la Ciudad de México. Los usuarios pueden descubrir museos y planificar recorridos optimizados con rutas inteligentes basadas en **ubicación y tiempo**.
+
+`Vue` `Node` `Turso` `Google Cloud` `PWA`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experiencia & Logros
+
+| Empresa | Rol | Descripción | Logros |
+|---------|-----|-------------|--------|
+| **[Evergo](https://evergo.com)** | Full Stack Developer | Plataforma de estaciones de carga para vehículos eléctricos en +9 países (Latam, España, EE.UU.) | ↓ 40% tiempos de carga · Lazy loading & SQL tuning · Integración carga pública/residencial/empresarial |
+| **[Central Media](https://centralmedia.mx)** | Full Stack Developer | Agencia de marketing digital líder en Salud y Bienestar en México (Google Partner, ESR) | ↓ 30% errores · Dashboards con Analytics, Salesforce y Tableau · Mejora UX/UI |
+| **[Analysat](https://analysat.com)** | Full Stack Developer | SaaS de gestión administrativa: facturación, SAT, conciliación bancaria, cumplimiento fiscal | Plataforma multi-empresa · Facturación masiva CFDI · Conciliación inteligente |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hdev07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=2563EB&icon_color=10B981&text_color=E5E7EB&ring_color=2563EB" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdev07&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=2563EB&text_color=E5E7EB" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hdev07&theme=github-dark-blue&hide_border=true&background=0B0F19&ring=2563EB&fire=10B981&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hdev07&theme=github-compact&hide_border=true&bg_color=0B0F19&color=E5E7EB&line=2563EB&point=10B981&area=true&area_color=2563EB" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hdev07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Conectemos
+
+¿Tienes una idea, proyecto o necesitas mejorar tu plataforma?
+
+[![Iniciar conversación](https://img.shields.io/badge/Iniciar_conversación_🚀-2563EB?style=for-the-badge&logoColor=white)](mailto:hcruz0716@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hdev07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hdev07)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525583414659)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hdev07.vercel.app)
+
+---
+
+<sub>Diseñado y desarrollado por **Alejandro Cruz** · Construyendo productos digitales con impacto 🚀</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
 

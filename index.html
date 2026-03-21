@@ -1,32 +1,438 @@
-<!doctype html>
-<html lang="es" class="no-js">
+<!DOCTYPE html>
+<html lang="es">
+
 <head>
-  <base target="_blank">
   <meta charset="UTF-8" />
-  <title>Hdev07</title>
-  <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Primary -->
+  <title>Alejandro Cruz — Full Stack Developer | Musion · MoviBase · Product Builder</title>
+  <meta name="description"
+    content="Soy Alejandro Cruz (hdev07), Full Stack Developer y Product Builder. Creador de Musion y co-fundador de MoviBase. Desarrollo plataformas SaaS escalables con Vue, Node, Python y arquitectura cloud. +4 años construyendo productos digitales con impacto real." />
+  <meta name="keywords"
+    content="Alejandro Cruz, hdev07, Full Stack Developer, Product Builder, Musion, MoviBase, freelance, desarrollador web, SaaS, Vue, Nuxt, React, Node, Python, Tailwind, AWS, México, portafolio, portfolio, Evergo, Central Media, Analysat, programador, software engineer" />
+  <meta name="author" content="Alejandro Cruz" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://hdev07.vercel.app/" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://hdev07.vercel.app/" />
+  <meta property="og:title" content="Alejandro Cruz — Full Stack Developer | Musion · MoviBase" />
+  <meta property="og:description"
+    content="Full Stack Developer y Product Builder. Creador de Musion y co-fundador de MoviBase. Plataformas SaaS escalables con +4 años de experiencia." />
+  <meta property="og:image" content="https://hdev07.vercel.app/assets/og-image.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:site_name" content="Alejandro Cruz — Portfolio" />
+  <meta property="og:locale" content="es_MX" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://hdev07.vercel.app/" />
+  <meta name="twitter:title" content="Alejandro Cruz — Full Stack Developer | Musion · MoviBase" />
+  <meta name="twitter:description"
+    content="Full Stack Developer y Product Builder. Creador de Musion y co-fundador de MoviBase. Plataformas SaaS escalables con +4 años de experiencia." />
+  <meta name="twitter:image" content="https://hdev07.vercel.app/assets/og-image.svg" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="apple-touch-icon" href="assets/favicon.png" />
+
+  <!-- Theme -->
+  <meta name="theme-color" content="#0B0F19" />
+  <meta name="msapplication-TileColor" content="#0B0F19" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap"
+    rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" type="text/css">
-  <!-- remember, jQuery is completely optional -->
-  <script type="text/javascript" src="js/jquery.particleground.js"></script>
-  <script type="text/javascript" src="js/demo.js"></script>
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "Alejandro Cruz — Portfolio",
+        "url": "https://hdev07.vercel.app/",
+        "description": "Portfolio profesional de Alejandro Cruz, Full Stack Developer y Product Builder."
+      },
+      {
+        "@type": "Person",
+        "name": "Alejandro Cruz",
+        "alternateName": "hdev07",
+        "url": "https://hdev07.vercel.app/",
+        "jobTitle": "Full Stack Developer",
+        "description": "Full Stack Developer y Product Builder con +4 años de experiencia construyendo plataformas SaaS escalables.",
+        "email": "hcruz0716@gmail.com",
+        "sameAs": [
+          "https://www.linkedin.com/in/hdev07/",
+          "https://github.com/hdev07",
+          "https://musion.day",
+          "https://movibase.com"
+        ],
+        "knowsAbout": [
+          "Vue.js", "Nuxt", "React", "Tailwind CSS", "Node.js", "Python", "Flask",
+          "SaaS", "Multi-tenant Architecture", "AWS", "Supabase", "PostgreSQL", "PostGIS",
+          "REST APIs", "Full Stack Development", "Product Building"
+        ],
+        "nationality": {
+          "@type": "Country",
+          "name": "Mexico"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body>
+  <!-- Custom cursor -->
+  <div class="cursor-dot" id="cursorDot"></div>
+  <div class="cursor-glow" id="cursorGlow"></div>
 
-<div id="particles">
-  <div id="intro">
-      <h2 style="font-family: 'Syncopate', sans-serif; font-weight: 10;"><a href="CV-Alejandro-Cruz-EN.pdf" style="color: white;">Hdev07 Developer</a></h2>
-        <hr style="width: 50%; background-color: #E83951; border-color: #E83951;">
-    <a href="https://www.linkedin.com/in/hdev07/" style="color: white;"><i class="fab fa-linkedin" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://github.com/hdev07" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://twitter.com/hdev07" style="color: white;"><i class="fab fa-twitter" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://wa.me/+525583414659/" style="color: white;"><i class="fab fa-whatsapp" style="font-size: 2em;"></i></a>
-  </div>
-</div>
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <a href="#hero" class="nav-logo">AC<span class="accent-dot">.</span></a>
+    <button class="nav-toggle" id="navToggle" aria-label="Abrir menú">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#about">Sobre mí</a></li>
+      <li><a href="#stack">Stack</a></li>
+      <li><a href="#projects">Proyectos</a></li>
+      <li><a href="#timeline">Trayectoria</a></li>
+      <li><a href="#approach">Enfoque</a></li>
+      <li><a href="#insights">Thinking</a></li>
+      <li><a href="#contact" class="nav-cta">Contactar</a></li>
+    </ul>
+  </nav>
+
+  <!-- ═══════════════ HERO ═══════════════ -->
+  <section class="hero" id="hero">
+    <div class="hero-bg-grid"></div>
+    <div class="hero-gradient"></div>
+    <div class="hero-content">
+      <p class="hero-tag reveal fade-up">Full Stack Developer · Product Builder</p>
+      <h1 class="hero-title reveal fade-up" style="--delay:.1s">Alejandro Cruz</h1>
+      <p class="hero-headline reveal fade-up" style="--delay:.2s">Construyo plataformas web escalables con enfoque en
+        performance, UX y negocio.</p>
+      <p class="hero-desc reveal fade-up" style="--delay:.3s">Desarrollo soluciones completas desde la arquitectura
+        hasta la experiencia final, optimizando cada capa del producto para lograr velocidad, escalabilidad y una
+        experiencia impecable.</p>
+      <div class="hero-ctas reveal fade-up" style="--delay:.4s">
+        <a href="#projects" class="btn btn-primary glow-btn">🚀 Ver proyectos</a>
+        <a href="#contact" class="btn btn-outline">📩 Contactar</a>
+      </div>
+      <p class="hero-micro reveal fade-up" style="--delay:.5s">+4 años construyendo SaaS, dashboards y aplicaciones
+        reales en producción</p>
+    </div>
+    <div class="hero-scroll-indicator reveal fade-up" style="--delay:.7s">
+      <span>scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ SOBRE MÍ ═══════════════ -->
+  <section class="section" id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-text">
+          <h2 class="section-title reveal fade-right">Sobre mí</h2>
+          <p class="reveal fade-right" style="--delay:.1s">Soy desarrollador Full Stack con enfoque en producto.</p>
+          <p class="reveal fade-right" style="--delay:.15s">No solo escribo código, diseño soluciones completas que
+            conectan backend, frontend y experiencia de usuario.</p>
+          <p class="reveal fade-right" style="--delay:.2s">He trabajado en plataformas empresariales, sistemas SaaS y
+            productos propios, logrando mejoras reales en rendimiento, arquitectura y usabilidad.</p>
+          <p class="reveal fade-right" style="--delay:.25s">Me enfoco en construir software que no solo funcione, sino
+            que escale, sea mantenible y genere impacto.</p>
+        </div>
+        <div class="about-quote reveal fade-right" style="--delay:.35s">
+          <blockquote>
+            <span class="quote-mark">"</span>
+            El código es solo una parte. El valor está en cómo resuelve problemas reales.
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ STACK ═══════════════ -->
+  <section class="section" id="stack">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Stack &amp; Tecnologías</h2>
+      <p class="section-subtitle reveal fade-up" style="--delay:.1s">Tecnologías que utilizo para construir productos
+        modernos, rápidos y escalables.</p>
+      <div class="stack-grid">
+        <!-- Frontend -->
+        <div class="stack-card glass reveal fade-up" style="--delay:.15s">
+          <div class="stack-icon">🎨</div>
+          <h3>Frontend</h3>
+          <p class="stack-techs">Vue · Nuxt · React · Tailwind</p>
+          <p class="stack-desc">Interfaces rápidas, escalables y centradas en el usuario</p>
+        </div>
+        <!-- Backend -->
+        <div class="stack-card glass reveal fade-up" style="--delay:.2s">
+          <div class="stack-icon">⚙️</div>
+          <h3>Backend</h3>
+          <p class="stack-techs">Node · Python · Flask</p>
+          <p class="stack-desc">APIs robustas, seguras y eficientes</p>
+        </div>
+        <!-- Arquitectura -->
+        <div class="stack-card glass reveal fade-up" style="--delay:.25s">
+          <div class="stack-icon">🏗️</div>
+          <h3>Arquitectura</h3>
+          <p class="stack-techs">SaaS · Multi-tenant · JWT · OAuth</p>
+          <p class="stack-desc">Sistemas diseñados para crecer</p>
+        </div>
+        <!-- Cloud -->
+        <div class="stack-card glass reveal fade-up" style="--delay:.3s">
+          <div class="stack-icon">☁️</div>
+          <h3>Cloud &amp; Tools</h3>
+          <p class="stack-techs">AWS · Supabase · Turso · Vercel</p>
+          <p class="stack-desc">Infraestructura moderna y flexible</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ PROYECTOS ═══════════════ -->
+  <section class="section" id="projects">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Proyectos Destacados</h2>
+
+      <!-- MoviBase -->
+      <div class="project-featured glass reveal fade-up" style="--delay:.1s">
+        <div class="project-badge">🚀 Co-Founder</div>
+        <h3 class="project-name">MoviBase</h3>
+        <p class="project-desc">Plataforma SaaS de control operativo y financiero de flotas vehiculares para
+          Latinoamérica. Una sola plataforma que reemplaza GPS + Excel + WhatsApp + Contabilidad con 27 módulos
+          integrados.</p>
+        <p class="project-impact"><strong>Impacto:</strong> Empresas de transporte reducen hasta 23% en combustible y
+          65% en fallas mecánicas. Gestión de flotas desde 10 hasta miles de unidades con GPS en tiempo real,
+          mantenimiento predictivo y dashboard de KPIs.</p>
+        <div class="project-stack-tags">
+          <span>Vue</span><span>Tailwind</span><span>Node</span><span>PostGIS</span><span>Neon</span><span>PWA</span><span>Multi-tenant</span>
+        </div>
+        <div class="project-links">
+          <a href="https://movibase.com" target="_blank" rel="noopener noreferrer"
+            class="btn btn-sm btn-primary glow-btn">Ver proyecto</a>
+        </div>
+      </div>
+
+      <!-- Musion -->
+      <div class="project-featured glass reveal fade-up" style="--delay:.15s">
+        <div class="project-badge">🔥 Founder</div>
+        <h3 class="project-name">Musion</h3>
+        <p class="project-desc">Plataforma PWA diseñada para centralizar la oferta cultural de la Ciudad de México,
+          permitiendo a los usuarios descubrir museos y planificar recorridos optimizados.</p>
+        <p class="project-impact"><strong>Impacto:</strong> Mejora la forma en que las personas exploran la cultura
+          mediante rutas inteligentes basadas en ubicación y tiempo.</p>
+        <div class="project-stack-tags">
+          <span>Vue</span>
+          <span>Node</span>
+          <span>PostGIS</span>
+          <span>Neon</span>
+          <span>Google Cloud</span>
+          <span>PWA</span>
+          <span>Tailwind</span>
+          <span>Optimización de rutas</span>
+
+        </div>
+        <div class="project-links">
+          <a href="https://musion.day" target="_blank" rel="noopener noreferrer"
+            class="btn btn-sm btn-primary glow-btn">Ver proyecto</a>
+        </div>
+      </div>
+
+      <!-- Experiencia profesional -->
+      <h3 class="subsection-title reveal fade-up" style="--delay:.2s">💼 Experiencia Profesional</h3>
+      <div class="projects-grid">
+        <!-- Evergo -->
+        <div class="project-card glass reveal fade-up" style="--delay:.25s">
+          <h4><a href="https://evergo.com" target="_blank" rel="noopener noreferrer">Evergo</a></h4>
+          <p>Desarrollo de la plataforma tecnológica para la red de estaciones de carga de vehículos eléctricos más
+            avanzada de Latinoamérica y el Caribe, con presencia en +9 países incluyendo México, España y EE.UU.</p>
+          <ul class="project-achievements">
+            <li>Reducción del 40% en tiempos de carga de la plataforma</li>
+            <li>Arquitectura optimizada con lazy loading y SQL tuning</li>
+            <li>Integración de sistemas de carga pública, residencial y empresarial</li>
+          </ul>
+        </div>
+        <!-- Central Media -->
+        <div class="project-card glass reveal fade-up" style="--delay:.3s">
+          <h4><a href="https://centralmedia.mx" target="_blank" rel="noopener noreferrer">Central Media</a></h4>
+          <p>Desarrollo interactivo para la agencia de marketing digital líder en Salud, Bienestar y Vida en México.
+            Dashboards administrativos con visualización de datos en tiempo real y herramientas de analítica digital.
+          </p>
+          <ul class="project-achievements">
+            <li>Reducción del 30% de errores en producción</li>
+            <li>Dashboards de métricas con Google Analytics, Salesforce y Tableau</li>
+            <li>Mejora significativa en UX/UI de plataformas internas</li>
+          </ul>
+        </div>
+        <!-- Analysat -->
+        <div class="project-card glass reveal fade-up" style="--delay:.35s">
+          <h4><a href="https://analysat.com" target="_blank" rel="noopener noreferrer">Analysat</a></h4>
+          <p>Desarrollo fullstack de plataforma SaaS de gestión administrativa empresarial. Automatización de
+            facturación, conectividad con SAT, conciliación bancaria inteligente y cumplimiento fiscal para empresas en
+            México.</p>
+          <ul class="project-achievements">
+            <li>Plataforma multi-empresa con conectividad SAT y bancos</li>
+            <li>Facturación automatizada y timbrado masivo de CFDI</li>
+            <li>Sistema de conciliación inteligente de pagos</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ TRAYECTORIA ═══════════════ -->
+  <section class="section" id="timeline">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Trayectoria</h2>
+      <div class="timeline">
+        <div class="timeline-line" id="timelineLine"></div>
+        <div class="timeline-item reveal fade-up" style="--delay:.1s">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content glass">
+            <span class="timeline-year">2019 - 2020</span>
+            <h4>Frontend Developer</h4>
+            <p>Inicio en desarrollo web, construyendo interfaces y experiencias de usuario.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal fade-up" style="--delay:.2s">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content glass">
+            <span class="timeline-year">2020 - 2022</span>
+            <h4>Full Stack Developer</h4>
+            <p>Expansión hacia backend, APIs y arquitectura de sistemas completos.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal fade-up" style="--delay:.3s">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content glass">
+            <span class="timeline-year">2023 - 2025</span>
+            <h4>SaaS &amp; Product Builder</h4>
+            <p>Desarrollo de plataformas SaaS y productos propios con enfoque en escalabilidad.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal fade-up" style="--delay:.4s">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content glass">
+            <!-- Musion -->
+            <span class="timeline-year">2022 - Actualidad</span>
+            <h4>Founder · Musion</h4>
+            <p>Fundador de plataforma PWA para centralizar la oferta cultural de la Ciudad de México con rutas
+              inteligentes.</p>
+            <!-- Movibase  -->
+            <span class="timeline-year">2026 - Actualidad</span>
+            <h4>Co-Founder · MoviBase</h4>
+            <p>Co-fundador de plataforma SaaS de control de flotas vehiculares para Latinoamérica con 27 módulos
+              integrados.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ CÓMO TRABAJO ═══════════════ -->
+  <section class="section" id="approach">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Mi enfoque</h2>
+      <p class="section-subtitle reveal fade-up" style="--delay:.05s">Mi forma de trabajar se basa en construir
+        productos completos, no solo funcionalidades aisladas.</p>
+      <div class="approach-grid">
+        <div class="approach-item reveal fade-up" style="--delay:.1s">
+          <span class="approach-icon bounce">🧠</span>
+          <p>Pienso en producto, no solo en código</p>
+        </div>
+        <div class="approach-item reveal fade-up" style="--delay:.15s">
+          <span class="approach-icon bounce">⚡</span>
+          <p>Optimizo rendimiento desde la base</p>
+        </div>
+        <div class="approach-item reveal fade-up" style="--delay:.2s">
+          <span class="approach-icon bounce">🧱</span>
+          <p>Diseño arquitectura escalable</p>
+        </div>
+        <div class="approach-item reveal fade-up" style="--delay:.25s">
+          <span class="approach-icon bounce">🎯</span>
+          <p>Enfoque en experiencia de usuario real</p>
+        </div>
+        <div class="approach-item reveal fade-up" style="--delay:.3s">
+          <span class="approach-icon bounce">🔐</span>
+          <p>Implemento seguridad desde el inicio</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ INSIGHTS ═══════════════ -->
+  <section class="section" id="insights">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Thinking</h2>
+      <p class="section-subtitle reveal fade-up" style="--delay:.05s">Algunas ideas y aprendizajes construyendo
+        productos reales.</p>
+      <div class="insights-grid">
+        <article class="insight-card glass reveal fade-up" style="--delay:.1s">
+          <span class="insight-tag">Performance</span>
+          <h4>Cómo reducir 40% el tiempo de carga en apps web</h4>
+          <p>Estrategias de lazy loading, code splitting y optimización de assets que aplico en cada proyecto.</p>
+        </article>
+        <article class="insight-card glass reveal fade-up" style="--delay:.15s">
+          <span class="insight-tag">Arquitectura</span>
+          <h4>Errores comunes al escalar un SaaS</h4>
+          <p>Lecciones aprendidas sobre multi-tenancy, manejo de estado y separación de concerns.</p>
+        </article>
+        <article class="insight-card glass reveal fade-up" style="--delay:.2s">
+          <span class="insight-tag">Frontend</span>
+          <h4>Buenas prácticas en arquitectura frontend</h4>
+          <p>Patrones que uso para mantener codebases grandes organizadas y mantenibles.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ CONTACTO ═══════════════ -->
+  <section class="section section-contact" id="contact">
+    <div class="container">
+      <h2 class="section-title reveal fade-up">Construyamos algo juntos</h2>
+      <p class="section-subtitle reveal fade-up" style="--delay:.05s">¿Tienes una idea, proyecto o necesitas mejorar tu
+        plataforma actual?<br>Estoy listo para ayudarte a construir algo sólido y escalable.</p>
+      <div class="contact-links reveal fade-up" style="--delay:.15s">
+        <a href="mailto:hcruz0716@gmail.com" class="contact-link glass">
+          <span>📩</span> hcruz0716@gmail.com
+        </a>
+        <a href="https://www.linkedin.com/in/hdev07/" target="_blank" rel="noopener noreferrer"
+          class="contact-link glass">
+          <span>💼</span> LinkedIn
+        </a>
+        <a href="https://github.com/hdev07" target="_blank" rel="noopener noreferrer" class="contact-link glass">
+          <span>🐙</span> GitHub
+        </a>
+        <a href="https://wa.me/525583414659" target="_blank" rel="noopener noreferrer" class="contact-link glass">
+          <span>💬</span> WhatsApp
+        </a>
+      </div>
+      <div class="reveal fade-up" style="--delay:.25s">
+        <a href="mailto:hcruz0716@gmail.com" class="btn btn-primary glow-btn glow-pulse">Iniciar conversación 🚀</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ FOOTER ═══════════════ -->
+  <footer class="footer" role="contentinfo">
+    <p>Diseñado y desarrollado por <strong>Alejandro Cruz</strong></p>
+    <p class="footer-tagline">Construyendo productos digitales con impacto 🚀</p>
+  </footer>
+
+  <script src="js/main.js"></script>
 </body>
+
 </html>
