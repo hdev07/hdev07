@@ -478,7 +478,7 @@ ul {
    ══════════════════════════════════ */
 .stack-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
 }
 .stack-card {
@@ -509,6 +509,45 @@ ul {
 .stack-desc {
   color: var(--muted);
   font-size: 0.9rem;
+}
+.stack-icons-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.75rem;
+}
+.stack-icons-row img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  opacity: 0.85;
+  transition:
+    opacity var(--transition),
+    transform var(--transition);
+}
+.stack-icons-row img:hover {
+  opacity: 1;
+  transform: scale(1.15);
+}
+.stack-features {
+  list-style: none;
+  margin-top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.stack-features li {
+  font-size: 0.82rem;
+  color: var(--muted);
+  padding-left: 1.1rem;
+  position: relative;
+}
+.stack-features li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-size: 0.75rem;
 }
 
 /* ══════════════════════════════════
