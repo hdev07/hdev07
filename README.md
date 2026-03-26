@@ -26,8 +26,9 @@ No solo escribo código — diseño soluciones completas que conectan backend, f
 
 ### ⚡ Quick Facts
 
-- � Co-Founder de **[MoviBase](https://movibase.com)** — plataforma SaaS de control de flotas para Latinoamérica
-- 🔭 Construyendo **[musion.day](https://musion.day)** — plataforma PWA de cultura para CDMX
+- 🚀 Co-Founder de **[MoviBase](https://movibase.com)** — plataforma SaaS de control de flotas para Latinoamérica
+- 🏛️ Founder de **[Musion](https://musion.day)** — plataforma PWA de cultura para CDMX
+- 📖 Founder de **[Confecdotario](https://app-confecdotario.devifly.dev)** — red social white-label para creadores de contenido
 - 🧠 Enfoque en **producto**, no solo en código
 - 🏗️ Experiencia diseñando arquitecturas **SaaS & multi-tenant**
 - 📈 He logrado reducir **40% tiempos de carga** y **30% errores en producción**
@@ -88,18 +89,29 @@ No solo escribo código — diseño soluciones completas que conectan backend, f
 
 Plataforma **SaaS** de control operativo y financiero de flotas vehiculares para Latinoamérica. Reemplaza GPS + Excel + WhatsApp + Contabilidad con **27 módulos integrados**: GPS en tiempo real, comandos remotos, mantenimiento predictivo, geocercas, dashboard de KPIs, control de combustible y más.
 
-`Vue` `Nuxt` `Node` `PostGIS` `Supabase` `PWA` `Multi-tenant`
+`Vue 3` `TypeScript` `Express` `PostGIS` `Neon` `PWA` `Multi-tenant` `Socket.IO` `BullMQ` `Redis` `Mapbox`
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-#### 🏛️ [Musion](https://musion.day)
+#### 🏛️ [Musion](https://musion.day) — Founder
 
 Plataforma **PWA** para centralizar la oferta cultural de la Ciudad de México. Los usuarios pueden descubrir museos y planificar recorridos optimizados con rutas inteligentes basadas en **ubicación y tiempo**.
 
-`Vue` `Node` `Turso` `Google Cloud` `PWA`
+`Vue 3` `Express v5` `TypeScript` `Pinia` `PostGIS` `Neon` `Google Cloud` `PWA` `Tailwind` `Stripe` `MercadoPago`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 📖 [Confecdotario](https://app-confecdotario.devifly.dev) — Founder
+
+Plataforma social **white-label** para creadores de contenido. Permite lanzar redes sociales de marca propias centradas en anécdotas, confesiones y storytelling comunitario. MVP funcional con **68 endpoints, 27 tablas**, moderación y gamificación.
+
+`Vue 3` `NestJS` `Prisma` `TypeScript` `Pinia` `Neon` `AWS S3` `Tailwind` `PWA` `Resend` `SaaS B2B`
 
 </td>
 </tr>
