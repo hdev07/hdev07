@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Alejandro%20Cruz&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" alt="header" />
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-hdev07.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hdev07.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hdev07.devifly.dev-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hdev07.devifly.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hdev07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hdev07)
 [![Email](https://img.shields.io/badge/Email-hcruz0716@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcruz0716@gmail.com)
 
@@ -16,7 +16,7 @@
 
 ### 🚀 Construyo productos digitales escalables con impacto real
 
-Soy desarrollador **Full Stack** con más de **4 años** de experiencia construyendo **SaaS, dashboards y aplicaciones en producción**.
+Soy desarrollador **Full Stack** con más de **6 años** de experiencia construyendo **SaaS, dashboards y aplicaciones en producción**.
 
 No solo escribo código — diseño soluciones completas que conectan backend, frontend y experiencia de usuario. Me enfoco en construir software que **escale, sea mantenible y genere impacto**.
 
@@ -28,7 +28,7 @@ No solo escribo código — diseño soluciones completas que conectan backend, f
 
 - 🚀 Co-Founder de **[MoviBase](https://movibase.com)** — plataforma SaaS de control de flotas para Latinoamérica
 - 🏛️ Founder de **[Musion](https://musion.day)** — plataforma PWA de cultura para CDMX
-- 📖 Founder de **[Confecdotario](https://app-confecdotario.devifly.dev)** — red social white-label para creadores de contenido
+- 📖 Founder de **[Confecdotario](https://confecdotario.com)** — red social white-label para creadores de contenido
 - 🧠 Enfoque en **producto**, no solo en código
 - 🏗️ Experiencia diseñando arquitecturas **SaaS & multi-tenant**
 - 📈 He logrado reducir **40% tiempos de carga** y **30% errores en producción**
@@ -107,7 +107,7 @@ Plataforma **PWA** para centralizar la oferta cultural de la Ciudad de México. 
 <tr>
 <td width="100%">
 
-#### 📖 [Confecdotario](https://app-confecdotario.devifly.dev) — Founder
+#### 📖 [Confecdotario](https://confecdotario.com) — Founder
 
 Plataforma social **white-label** para creadores de contenido. Permite lanzar redes sociales de marca propias centradas en anécdotas, confesiones y storytelling comunitario. MVP funcional con **68 endpoints, 27 tablas**, moderación y gamificación.
 
@@ -165,7 +165,7 @@ Plataforma social **white-label** para creadores de contenido. Permite lanzar re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hdev07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hdev07)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525583414659)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hdev07.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hdev07.devifly.dev)
 
 ---
 
